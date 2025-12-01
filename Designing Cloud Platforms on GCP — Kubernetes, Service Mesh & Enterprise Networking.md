@@ -22,21 +22,21 @@
 ### **Chapter 2 — Mental Models for Cloud, Kubernetes, and Modern Service Platforms**
 
 2.1 Cloud-Native Fundamentals
-	2.1.1 Cattle vs pets
-	2.1.2 Declarative vs imperative infrastructure
-	2.1.3 Control plane vs data plane thinking
+  2.1.1 Cattle vs pets
+  2.1.2 Declarative vs imperative infrastructure
+  2.1.3 Control plane vs data plane thinking
 2.2 Kubernetes Mental Models
-	2.2.1 Kubernetes as a scheduler
-	2.2.2 Pods as the unit of compute
-	2.2.3 Reconciliation loops & desired state
+  2.2.1 Kubernetes as a scheduler
+  2.2.2 Pods as the unit of compute
+  2.2.3 Reconciliation loops & desired state
 2.3 Networking Mental Models
-	2.3.1 East–west vs north–south traffic
-	2.3.2 Layer 4 vs Layer 7 routing
-	2.3.3 Identity as the new perimeter
+  2.3.1 East–west vs north–south traffic
+  2.3.2 Layer 4 vs Layer 7 routing
+  2.3.3 Identity as the new perimeter
 2.4 Reliability Mental Models
-	2.4.1 SLOs as platform contracts
-	2.4.2 Failure domains
-	2.4.3 Observability as a first-class feature
+  2.4.1 SLOs as platform contracts
+  2.4.2 Failure domains
+  2.4.3 Observability as a first-class feature
 
 ---
 ### **Chapter 3 — GCP Fundamentals for Enterprise-Scale Architectures**
